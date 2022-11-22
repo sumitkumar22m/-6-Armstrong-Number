@@ -11,6 +11,6 @@
                               153
                               YES 153 is an Armstrong Number
                                             
- <---------------THANKS FOR READING--------------->                                           
+ <---------------THANKS FOR READING-------------->                                           
                                             
                                             
